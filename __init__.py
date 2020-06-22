@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # author: Donghao Wang
-# time : 2019/4/10
+# time : 2020/6/22
 
 
 __author__ = "dd"
@@ -14,7 +14,6 @@ except ImportError:
     import PySide.QtGui as QtWidgets
     from PySide import QtCore
     from shiboken import wrapInstance
-# coding: utf-8
 import pymel.core as pm
 import maya.cmds as cmds
 import logging
