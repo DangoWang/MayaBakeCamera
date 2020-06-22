@@ -1,0 +1,5 @@
+import BakeCamTool
+reload(BakeCamTool)
+win = BakeCamTool.BakeCamDialog()
+win.setupUi(win)
+win.show()
