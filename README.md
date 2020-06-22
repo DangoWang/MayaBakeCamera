@@ -15,5 +15,5 @@ Make sure that this tool is in your PYTHONPATH, if not, please add these lines o
 ```python
 #!/usr/bin/python2
 import sys
-sys.path.append('path/to/your/location/to/install'
+sys.path.append('path/to/your/location/to/install')
 ```
